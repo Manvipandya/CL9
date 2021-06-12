@@ -1,0 +1,37 @@
+Initially All Processes are activated !
+.........
+
+Process    : 	P1	P2	P3	P4	P5
+ID	   : 	1	2	3	4	5
+Status     : 	1	1	1	1	1
+.........
+Menu
+1 Activate.
+2.Deactivate
+3 Election
+4.Exit
+
+2
+Deactivation ..
+5
+.........
+Menu
+1 Activate.
+2.Deactivate
+3 Election
+4.Exit
+3
+Enter Process to be elected. 
+2
+process2election
+election send from process2to process 3
+election send from process2to process 4
+election send from process2to process 5
+Coordinator message send from process4to all
+.........
+Menu
+1 Activate.
+2.Deactivate
+3 Election
+4.Exit
+4
